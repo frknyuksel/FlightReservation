@@ -34,7 +34,7 @@ Proje içerik resimlerinin içerisinde Uygulamada yapılan işlem detaylarını 
 
 **Backend ve Client Projelerin Kurulumu:**
      ```bash
-   git clone https://github.com/kullanici-adiniz/Flight-Reservation-App.git
+   git clone [(https://github.com/frknyuksel/FlightReservation.git)]
 
    - `client` dizinine gidin:
      ```bash
