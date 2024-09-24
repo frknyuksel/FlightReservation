@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+    /* Küçük ekranlarda kaydırmayı aktif hale getirir */
+  }
+
+  .search-card .text-lg {
+    font-size: 1rem;
+    /* Küçük ekranlar için font boyutunu küçültme */
+  }
+
+  .search-card .trip-options {
+    margin-top: 2.5rem;
+    font-size: 0.5rem;
+    /* Küçük ekranlar için yukarıdan 2 birim boşluk bırakıyoruz */
+  }
+}
