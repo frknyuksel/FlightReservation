@@ -4,7 +4,7 @@
 
 Bu projede Schiphol Havalimanı API'si kullanılarak uçuşlar listelenmektedir. Kullanılan teknolojiler:
 - **MERN**: MongoDB, Express.js, React.js, Node.js
-- **Kütüphaneler**: Tailwind CSS, Material UI, Day.js, SweetAlert
+- **Kütüphaneler**: Tailwind CSS, Material UI, Day.js
 
 ## 🚀 Proje Açıklaması
 
